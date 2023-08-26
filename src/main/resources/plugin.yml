@@ -1,0 +1,9 @@
+name: Chohan
+version: '${project.version}'
+main: com.kuroinusaba.chohan.Chohan
+api-version: '1.19'
+commands:
+  chohan:
+    description: Play Chohan
+    usage: /<command> [even|odd]
+    aliases: [ch]
